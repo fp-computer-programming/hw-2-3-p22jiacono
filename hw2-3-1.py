@@ -1,4 +1,4 @@
-Author: JTI 9/21/21
+#Author: JTI 9/21/21
 free_throw_scored = input ("How many free throws did you score? ")
 regular_basket_scored = input ("How many regular baskets did you score?")
 three_pointers_scored = input ("How many three pointers did you score? ")
