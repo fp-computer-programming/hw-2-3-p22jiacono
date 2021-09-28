@@ -1,9 +1,7 @@
-#Author: JTI 9/21/21
-free_throw_scored = input ("How many free throws did you score? ")
-regular_basket_scored = input ("How many regular baskets did you score?")
-three_pointers_scored = input ("How many three pointers did you score? ")
+#Author:JTI 9/21/21
 
-total = int(free_throw_scored) + int(regular_basket_scored) * 2 + int(three_pointers_scored) * 3
-
-print(total)
-
+print("PPPPP   Y   Y   TTTTT   H   H   OOOOO   N   N")
+print("P   P    Y Y      T     H   H   O   O   NN  N")
+print("PPPPP     Y       T     HHHHH   O   O   N N N")
+print("P         Y       T     H   H   O   O   N  NN")
+print("P         Y       T     H   H   OOOOO   N   N")
